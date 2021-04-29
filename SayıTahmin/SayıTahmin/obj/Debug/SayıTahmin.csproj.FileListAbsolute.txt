@@ -1,0 +1,10 @@
+C:\Users\MUHAMMED\Desktop\c#\SayıTahmin\SayıTahmin\bin\Debug\SayıTahmin.exe.config
+C:\Users\MUHAMMED\Desktop\c#\SayıTahmin\SayıTahmin\bin\Debug\SayıTahmin.exe
+C:\Users\MUHAMMED\Desktop\c#\SayıTahmin\SayıTahmin\bin\Debug\SayıTahmin.pdb
+C:\Users\MUHAMMED\Desktop\c#\SayıTahmin\SayıTahmin\obj\Debug\SayıTahmin.csprojAssemblyReference.cache
+C:\Users\MUHAMMED\Desktop\c#\SayıTahmin\SayıTahmin\obj\Debug\SayıTahmin.Form1.resources
+C:\Users\MUHAMMED\Desktop\c#\SayıTahmin\SayıTahmin\obj\Debug\SayıTahmin.Properties.Resources.resources
+C:\Users\MUHAMMED\Desktop\c#\SayıTahmin\SayıTahmin\obj\Debug\SayıTahmin.csproj.GenerateResource.cache
+C:\Users\MUHAMMED\Desktop\c#\SayıTahmin\SayıTahmin\obj\Debug\SayıTahmin.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMED\Desktop\c#\SayıTahmin\SayıTahmin\obj\Debug\SayıTahmin.exe
+C:\Users\MUHAMMED\Desktop\c#\SayıTahmin\SayıTahmin\obj\Debug\SayıTahmin.pdb
